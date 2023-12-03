@@ -1,8 +1,3 @@
-//Name-Prasad Chaudhari
-//Branch-IT 
-//Roll No.-09
-//Batch-S1
-
 public class ComplexNUmber{
 int real, img;
 ComplexNumber(int r, int i)
