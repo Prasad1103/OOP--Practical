@@ -1,8 +1,4 @@
-//Name :-Prasad Chaudhari
-//Roll no.:- 09
-//Batch:- S1
-//Program 5 - Design and develop a context for given case study and implement an interface for Vehicles 
-
+ 
 import java.util.Scanner;
 
 import javax.lang.model.util.ElementScanner14;
