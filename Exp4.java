@@ -1,10 +1,3 @@
-//Name:-Prasad Chaudhari
-//Roll no:-.09
-//Batch:-S1
-
-/*Program 4 :-Write a program that accepts dimensions of triangle/rectangle and display
-calculated area. Implement dynamic binding for given case study.*/
-
 
 import java.lang.Math.*;
 abstract class shape{
