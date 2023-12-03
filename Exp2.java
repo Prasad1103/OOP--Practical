@@ -1,7 +1,3 @@
-//Name :- Prasad Chaudhari
-//Roll No.:- 09
-//batch :- S1
-//Program 2 :- Program to find how many copies of the given books are ordered and display total total sale of publication
 
 import java.util.*;
 class Publication
