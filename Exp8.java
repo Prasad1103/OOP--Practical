@@ -1,7 +1,3 @@
-//Name:Prasad Chaudhari
-//Roll No:09
-//Class:SE(IT)
-//Batch:S1
 
 import java.io.*; 
 import java.util.*; 
