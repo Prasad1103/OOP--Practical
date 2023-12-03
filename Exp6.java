@@ -1,8 +1,3 @@
-//Name: Prasad Chaudhari 
-//Rollno.-09
-//Class:SE(IT)
-//Batch:S1
-
 
 import java.util.*;
 class NAexception
