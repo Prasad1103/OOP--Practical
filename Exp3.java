@@ -1,11 +1,4 @@
 
-//Name:Prasad Chaudhari 
-//Batch:S1
-//Roll no:09
-//Year:SE-IT
-//Assignment No.-3 Program for Inheritance
-
-
 class Employee
 {
   String name,add,mail;
