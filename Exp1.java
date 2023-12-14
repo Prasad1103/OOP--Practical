@@ -58,13 +58,16 @@ div.showc();
 }
 }
 
-//Output:
-C:\Users\prasad\OneDrive\Desktop\JAVA>javac ComplexNumber.java
+Algorithm:
+1. Begin
+2. Define a class operation with instance variables real and imag
+3. Input the two complex numbers c1=(a+ib) and c2=(c+id)
+4. Define the method add (c1, c2) as (a+ib) + (c+id) and stores result in c3
+5. Define the method sub (c1, c2) as (a+ib) - (c+id) and stores result in c3
+6. Define the method mul (c1, c2) as (a+ib) * (c+id) and store the result in c3 as 
+(ac-bd) + i(bc+ad)
+7. Define the method div (c1, c2) as (a+ib)/(c+id) and stores the quotient c3 as
+{(ac+bd)/(c2+d2)} +i{(bc-ad)/(c2+d2)}
+8. Define the method display () which outputs each result
+9. End
 
-C:\Users\prasad\OneDrive\Desktop\JAVA>java ComplexNumber
-first complex number-9+8i
-second complex nuumber-1+6i
-addition of complex number is-10+14i
-subtraction of complex number is-8+2i
-multiplication of complex no is-9+48i
-division of complex no is-9+1i
