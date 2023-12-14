@@ -1,5 +1,5 @@
 
-import java.util.*;
+import java.util.scanner;
 class Publication
 {
  String title;
@@ -97,7 +97,6 @@ public class Exp2
   System.out.println("\n Total Scale of Publication is :"+b1.total);
  }
 }
-
 //output:
 
 C:\Users\prasad\OneDrive\Desktop\JAVA>javac Exp2.java
@@ -125,3 +124,4 @@ Enter the price of the Book to be ordered :
 Total Copies of the Book1 Ordered :13
 Name of the Book1 Ordered :Pirates Of The Caribbean
 Total Sale of Book is :9100
+
